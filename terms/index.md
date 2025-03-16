@@ -1,6 +1,5 @@
 ---
 title: 서비스 이용약관
-layout: default
 ---
 
 # 서비스 이용약관
